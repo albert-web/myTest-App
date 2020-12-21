@@ -120,5 +120,8 @@
       }
     }
   },
-  "defaultProject": "myTest-App"
+  "defaultProject": "myTest-App",
+  "cli": {
+    "analytics": false
+  }
 }
